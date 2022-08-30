@@ -11,7 +11,7 @@ Holding down the Windows key and pressing another key, to trigger a keyboard sho
 
 As seen below, the Windows key is found between the Alt keys and Ctrl keys on both sides of the spacebar. Some PC keyboard manufacturers may substitute the Windows logo for another picture, but the key still functions the same. For example, some Linux users may put a Tux sticker over the Windows key or replace the key with a key that shows Tux.
 
-[![Windows key not working](windowskey.jpg.png)](https://github.com/metawikie/windows-key-not-working)
+[![Windows key not working](windowskey.jpg)](https://github.com/metawikie/windows-key-not-working)
 
 ## Windows key not working
 
