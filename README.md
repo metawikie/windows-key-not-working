@@ -1,6 +1,6 @@
 # Windows key not working
 
-[![Windows key not working](redd.png)](https://computersolve.com/windows-key-not-working/)
+[![Windows key not working](redd.png)](https://icncomputer.com/windows-key-not-working/)
 
 
 Windows key is a key found on IBM compatible keyboards used with the Microsoft Windows operating system. The Windows key has the Microsoft logo on it and is found between the left Ctrl and Alt keys on the keyboard. Pressing the Windows key by itself opens the Start menu that also displays the search box.
